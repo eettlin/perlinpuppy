@@ -1,0 +1,96 @@
+body {
+  background-color: rgb(245, 238, 142);
+}
+
+h3{
+  text-align: center;
+  color:rgb(97, 66, 66);
+}
+
+#wrapperDiv{
+  margin:auto;
+  height:840px;
+  width:1170px;
+  margin-top: 20px;
+  background-color: rgb(240, 226, 190);
+  border: solid rgb(97, 66, 66) 5px;
+
+}
+
+
+#canvasDiv{
+  float:left;
+  height:800px;
+  width:900px;
+  background-color: rgb(239, 212, 245);
+  
+  margin-top: 15px;
+  margin-left: 15px;
+
+}
+#infoDiv{
+  float:left;
+  height:800px;
+  width:200px;
+  background-color: rgb(239, 212, 245);
+  border: solid rgb(239, 212, 245) 5px;
+  margin-top: 15px;
+  margin-left: 15px;
+}
+
+#slider1 {
+  -webkit-appearance: none;
+  width: 90%;
+  height: 25px;
+  margin-top: 25px;
+  margin-left:10px;
+  background: rgb(245, 238, 142);
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+#slider2 {
+  -webkit-appearance: none;
+  width: 90%;
+  height: 25px;
+  margin-top: 25px;
+  margin-left:10px;
+  background: rgb(245, 238, 142);
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+#slider3 {
+  -webkit-appearance: none;
+  width: 90%;
+  height: 25px;
+  margin-top: 25px;
+  margin-left:10px;
+  background: rgb(245, 238, 142);
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+#slider4 {
+  -webkit-appearance: none;
+  width: 90%;
+  height: 25px;
+  margin-top: 25px;
+  margin-left:10px;
+  background: rgb(245, 238, 142);
+  outline: none;
+  opacity: 0.7;
+  -webkit-transition: .2s;
+  transition: opacity .2s;
+}
+
+
+
+
+
